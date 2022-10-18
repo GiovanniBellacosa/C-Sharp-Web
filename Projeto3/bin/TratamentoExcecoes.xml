@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TratamentoExcecoes</name>
+    </assembly>
+    <members>
+        <member name="T:TratamentoExcecoes.LogExcecoes">
+            <summary>
+            Classe para o tratamento de exceções
+            </summary>
+        </member>
+        <member name="P:TratamentoExcecoes.LogExcecoes.FileName">
+            <summary>
+            Propriedade para definir o nome do arquivo de log
+            </summary>
+        </member>
+        <member name="M:TratamentoExcecoes.LogExcecoes.SalvarExcecao(System.Exception)">
+            <summary>
+            Salva os dados da eceção no arquivo de log.
+            </summary>
+            <param name="ex">dados da exceção tipo "Exception"</param>
+        </member>
+        <member name="M:TratamentoExcecoes.LogExcecoes.LerExcecoes">
+            <summary>
+            Recupera os dados do arquivo de log
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TratamentoExcecoes.LogExcecoes.LimpaExcecoes">
+            <summary>
+            Limpa o arquivo de exceções.
+            </summary>
+        </member>
+    </members>
+</doc>

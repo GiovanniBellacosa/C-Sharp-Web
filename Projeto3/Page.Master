@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Page.master.cs" Inherits="Projeto3.Page" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+    <link href="css/Projeto.css" rel="stylesheet" />
+    <!-- Para inserir sldies -->
+    <!-- Felxsldie: http://flexslider.woothemes.com/ -->
+    <link href="js/flexslider.css" rel="stylesheet" />
+    <script src="js/jquery-1.7.2.min.js"></script>
+    <script src="js/flexslider.min.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- Cabeçalho -->
+        <div style="background-color: #dbdbdb">
+            <div class="content-wrap">
+                <div class="cabecalho">
+                    <!-- Logomarca -->
+                    <div class="logomarca">
+                        <img src="images/marca1.png" width="100%" />
+                    </div>
+                    <!-- Titulo -->
+                    <div class="barra-titulo">
+                    </div>
+                    <!-- Menu -->
+                    <div class="barra-menu">
+                        <a href ="Default.aspx">Home</a>
+                        <a href ="FaleConosco.aspx">Contato</a>
+                        <a href ="Representantes.aspx">Representantes</a>
+                        <a id="Excecoes" runat="server" href="ExibirExcecoe.aspx">Exibir Exceções</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="conteudo content-wrap">
+            <!-- ContentPlaceHolder é onde estará o conteudo da pagina -->
+            <!-- Conteudo -->
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <!-- Rodapé -->
+        <div class="rodape">
+            <div class="content-wrap">
+                <div class="row">
+                    <div class="col-4">
+                        <br />
+                        <h3>Curso: Análise e Desenvolvimento de sisitemas</h3>
+                        <br />
+                        <h3>Fatec Americana</h3>
+                    </div>
+                    <div class="col-4" style="text-align: center">
+                        <h2>Menu</h2>
+                    </div>
+                    <div class="col-4" style="text-align: right">
+                        <asp:Image ID="Image2" ImageUrl="~/images/marca1.png" runat="server" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,289 @@
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\Projeto3.dll.config
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\Projeto3.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\Projeto3.pdb
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\csc.exe
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\csc.exe.config
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\csc.rsp
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\csi.exe
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\csi.exe.config
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\csi.rsp
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.AppContext.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Collections.Immutable.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Console.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.IO.Compression.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.IO.Pipes.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Security.AccessControl.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Security.Claims.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.ValueTuple.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\vbc.exe
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\vbc.exe.config
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\vbc.rsp
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe.config
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\obj\Debug\Projeto3.csprojAssemblyReference.cache
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CopyComplete
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\obj\Debug\Projeto3.dll
+D:\Trabalhos\4ºSemestre\C#\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\Projeto3.dll.config
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\Projeto3.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\Projeto3.pdb
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csc.exe
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csc.exe.config
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csc.rsp
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csi.exe
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csi.exe.config
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\csi.rsp
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.AppContext.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Console.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Claims.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\vbc.exe
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\vbc.exe.config
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\vbc.rsp
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.AssemblyReference.cache
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CopyComplete
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\TratamentoExcecoes.dll
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\TratamentoExcecoes.pdb
+C:\Users\Windows\Meu Drive\Fatec\+DISCIPLINAS\+AULAS\2022-2\C#\Tarde\Projetos\Projeto3\Projeto3\bin\TratamentoExcecoes.xml
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\Projeto3.dll.config
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\Projeto3.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\Projeto3.pdb
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\csc.exe
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\csc.exe.config
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\csc.rsp
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\csi.exe
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\csi.exe.config
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\csi.rsp
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.AppContext.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Console.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\vbc.exe
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\vbc.exe.config
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\vbc.rsp
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\TratamentoExcecoes.pdb
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\TratamentoExcecoes.xml
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.csprojAssemblyReference.cache
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CopyComplete
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.dll
+C:\Users\0040482112030\Desktop\Projeto3.2\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\Projeto3.dll.config
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\Projeto3.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\Projeto3.pdb
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csc.exe
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csc.exe.config
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csc.rsp
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csi.exe
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csi.exe.config
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csi.rsp
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.AppContext.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Console.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\vbc.exe
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\vbc.exe.config
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\vbc.rsp
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\TratamentoExcecoes.pdb
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\TratamentoExcecoes.xml
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.csprojAssemblyReference.cache
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CopyComplete
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.dll
+C:\Users\0040482112030\OneDrive - Fatec Centro Paula Souza\C#\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\Projeto3.dll.config
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\Projeto3.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\Projeto3.pdb
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csc.exe
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csc.exe.config
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csc.rsp
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csi.exe
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csi.exe.config
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\csi.rsp
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.AppContext.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Console.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Claims.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\vbc.exe
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\vbc.exe.config
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\vbc.rsp
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\TratamentoExcecoes.pdb
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\TratamentoExcecoes.xml
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.AssemblyReference.cache
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CopyComplete
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.dll
+C:\Users\Samsung\Downloads\Projeto3.1\Projeto3.1\Projeto3\Projeto3\Projeto3\obj\Debug\Projeto3.pdb

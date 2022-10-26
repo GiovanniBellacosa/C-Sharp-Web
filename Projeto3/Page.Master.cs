@@ -11,7 +11,20 @@ namespace Projeto3
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Excecoes.Visible = true;
+            if (Session["autenticado"]!= null)
+            {
+                Excecoes.Visible = true;
+                representantes.Visible = true;
+                Entrar.Visible = false;
+                Sair.Visible = true;
+            }
+            else
+            {
+                Excecoes.Visible = false;
+                representantes.Visible = false;
+                Entrar.Visible = true;
+                Sair.Visible = false;
+            }
         }
     }
 }

@@ -20,9 +20,15 @@ namespace Projeto3
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            LoadGrid();
+            if (!IsPostBack)//só executar se for a primeira chamada
+            {
+                LoadGrid();
+            }
         }
 
+        /// <summary>
+        /// carrega o grid com os dados do banco de dados
+        /// </summary>
         protected void LoadGrid()
         {
             string comando = "SELECT RepresentanteId, Nome, NomeAcesso FROM Representantes ORDER BY RepresentanteId;";
@@ -35,8 +41,12 @@ namespace Projeto3
             tb.Dispose();
         }
 
+        /// <summary>
+        /// Limpar controles do formulário
+        /// </summary>
         protected void LimparControles()
         {
+            Mensagem.Text = "";
             RepresentanteId.Text = "";
             Nome.Text = "";
             NomeAcesso.Text = "";
